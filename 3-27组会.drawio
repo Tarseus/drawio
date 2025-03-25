@@ -112,6 +112,9 @@
             <mxPoint x="300" y="279.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="piFu3rO19TxPugWEwf-z-32" value="fixed prob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
