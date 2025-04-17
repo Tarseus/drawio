@@ -28,6 +28,15 @@
         <mxCell id="bgVyCXlUhRMSVjyGg1Y9-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="372" y="208.75" width="16" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="bgVyCXlUhRMSVjyGg1Y9-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;strokeColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="372" y="208.75" width="15.79" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="bgVyCXlUhRMSVjyGg1Y9-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257.49" y="269.8" as="sourcePoint" />
+            <mxPoint x="244.52" y="223.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
