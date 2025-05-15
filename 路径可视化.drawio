@@ -61,11 +61,11 @@
         <mxCell id="GF3Zq5Ky00ghrYIRpEd8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4D9900;strokeWidth=10;dashed=1;" parent="eYknZmrYXCRO1OCEh9i3-1" vertex="1">
           <mxGeometry x="1111.5" y="290" width="380" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="eYknZmrYXCRO1OCEh9i3-4" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;EAM-POMO | Cost = 7.498&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=0;perimeterSpacing=2;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="400" y="10" width="880" height="160" as="geometry" />
+        <mxCell id="eYknZmrYXCRO1OCEh9i3-4" value="&lt;font&gt;EAM-POMO | Cost = 7.498&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=0;perimeterSpacing=2;strokeColor=none;fontSize=102;" parent="1" vertex="1">
+          <mxGeometry x="265" y="10" width="1200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="eYknZmrYXCRO1OCEh9i3-5" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;POMO | Cost = 7.522&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="10" width="880" height="160" as="geometry" />
+        <mxCell id="eYknZmrYXCRO1OCEh9i3-5" value="&lt;font&gt;POMO | Cost = 7.522&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=none;fontSize=102;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="10" width="990" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
